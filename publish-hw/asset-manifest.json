@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pages/publish-hw/static/css/main.b408c935.chunk.css",
-    "main.js": "/pages/publish-hw/static/js/main.c04cda02.chunk.js",
-    "main.js.map": "/pages/publish-hw/static/js/main.c04cda02.chunk.js.map",
-    "runtime-main.js": "/pages/publish-hw/static/js/runtime-main.44dfff6f.js",
-    "runtime-main.js.map": "/pages/publish-hw/static/js/runtime-main.44dfff6f.js.map",
-    "static/js/2.02b67d46.chunk.js": "/pages/publish-hw/static/js/2.02b67d46.chunk.js",
-    "static/js/2.02b67d46.chunk.js.map": "/pages/publish-hw/static/js/2.02b67d46.chunk.js.map",
-    "index.html": "/pages/publish-hw/index.html",
-    "service-worker.js": "/pages/publish-hw/service-worker.js",
-    "service-worker.js.map": "/pages/publish-hw/service-worker.js.map",
-    "static/css/main.b408c935.chunk.css.map": "/pages/publish-hw/static/css/main.b408c935.chunk.css.map",
-    "static/js/2.02b67d46.chunk.js.LICENSE.txt": "/pages/publish-hw/static/js/2.02b67d46.chunk.js.LICENSE.txt"
+    "main.css": "/pages/dgonzale/www/publish-hw/static/css/main.b408c935.chunk.css",
+    "main.js": "/pages/dgonzale/www/publish-hw/static/js/main.8a1fb924.chunk.js",
+    "main.js.map": "/pages/dgonzale/www/publish-hw/static/js/main.8a1fb924.chunk.js.map",
+    "runtime-main.js": "/pages/dgonzale/www/publish-hw/static/js/runtime-main.fbb91811.js",
+    "runtime-main.js.map": "/pages/dgonzale/www/publish-hw/static/js/runtime-main.fbb91811.js.map",
+    "static/js/2.29f58d3c.chunk.js": "/pages/dgonzale/www/publish-hw/static/js/2.29f58d3c.chunk.js",
+    "static/js/2.29f58d3c.chunk.js.map": "/pages/dgonzale/www/publish-hw/static/js/2.29f58d3c.chunk.js.map",
+    "index.html": "/pages/dgonzale/www/publish-hw/index.html",
+    "service-worker.js": "/pages/dgonzale/www/publish-hw/service-worker.js",
+    "service-worker.js.map": "/pages/dgonzale/www/publish-hw/service-worker.js.map",
+    "static/css/main.b408c935.chunk.css.map": "/pages/dgonzale/www/publish-hw/static/css/main.b408c935.chunk.css.map",
+    "static/js/2.29f58d3c.chunk.js.LICENSE.txt": "/pages/dgonzale/www/publish-hw/static/js/2.29f58d3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.44dfff6f.js",
-    "static/js/2.02b67d46.chunk.js",
+    "static/js/runtime-main.fbb91811.js",
+    "static/js/2.29f58d3c.chunk.js",
     "static/css/main.b408c935.chunk.css",
-    "static/js/main.c04cda02.chunk.js"
+    "static/js/main.8a1fb924.chunk.js"
   ]
 }
