@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pages/dgonzale/www/publish-hw/static/css/main.b408c935.chunk.css",
-    "main.js": "/pages/dgonzale/www/publish-hw/static/js/main.3162d21f.chunk.js",
-    "main.js.map": "/pages/dgonzale/www/publish-hw/static/js/main.3162d21f.chunk.js.map",
+    "main.js": "/pages/dgonzale/www/publish-hw/static/js/main.c7e08831.chunk.js",
+    "main.js.map": "/pages/dgonzale/www/publish-hw/static/js/main.c7e08831.chunk.js.map",
     "runtime-main.js": "/pages/dgonzale/www/publish-hw/static/js/runtime-main.fbb91811.js",
     "runtime-main.js.map": "/pages/dgonzale/www/publish-hw/static/js/runtime-main.fbb91811.js.map",
     "static/js/2.beb52a7a.chunk.js": "/pages/dgonzale/www/publish-hw/static/js/2.beb52a7a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fbb91811.js",
     "static/js/2.beb52a7a.chunk.js",
     "static/css/main.b408c935.chunk.css",
-    "static/js/main.3162d21f.chunk.js"
+    "static/js/main.c7e08831.chunk.js"
   ]
 }
